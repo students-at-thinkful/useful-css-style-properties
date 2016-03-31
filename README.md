@@ -76,3 +76,14 @@ body { padding: 0; margin: 0; }
 ```
 ul { padding: 0; margin: 0; }
 ```
+
+##### link underline on hover
+```
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+```
+
+##### nav links, horizontal
+```
+nav a { display: inline-block; margin-right: 25px; }
+```
