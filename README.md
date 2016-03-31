@@ -22,8 +22,8 @@
 .class { display: block; }
 .class { display: none; }
 
-.class { visibility: visible;  }
-.class { visibility: hidden;  }
+.class { visibility: visible; }
+.class { visibility: hidden; }
 ```
 
 ##### outline vs border
@@ -51,3 +51,19 @@
 .class { background-color: #eee; }
 ```
 
+##### avoid floats
+```
+.class { float: left; }
+.class { float: right; }
+```
+
+##### position fixed to window
+```
+.class { position: fixed; right: 25px; top: 15px; }
+```
+
+##### position absolute relative relaionship
+```
+.class { position: relative; }
+.class { position: absolute; bottom: 50px; left: 0; right: 0; }
+```
