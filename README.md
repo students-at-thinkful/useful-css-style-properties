@@ -67,6 +67,7 @@
 .class { position: relative; }
 .class { position: absolute; bottom: 50px; left: 0; right: 0; }
 ```
+
 ##### remove white space border around the body
 ```
 body { padding: 0; margin: 0; }
@@ -86,4 +87,11 @@ a:hover { text-decoration: underline; }
 ##### nav links, horizontal
 ```
 nav a { display: inline-block; margin-right: 25px; }
+```
+
+##### form input inside a table
+```
+tr { height: 32px; }
+td.label { font-size: 14px; text-align: right; padding-right: 10px; }
+input[type="text"] { width: 200px; height: 16px; }
 ```
