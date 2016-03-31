@@ -49,6 +49,7 @@
 .class { background-color: #ccc; }
 .class { background-color: #ddd; }
 .class { background-color: #eee; }
+.class { background-color: #fff; }
 ```
 
 ##### avoid floats
