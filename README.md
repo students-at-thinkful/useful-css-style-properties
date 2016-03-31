@@ -6,3 +6,8 @@
 ```
 .class { width: 600px; margin: 0 auto; }
 ```
+
+##### centering text
+```
+.class { text-align: center; }
+```
