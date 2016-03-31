@@ -11,3 +11,8 @@
 ```
 .class { text-align: center; }
 ```
+
+##### display inline block
+```
+.class { display: inline-block; width: 100px; hight: 100px; outline: 1px solid #eee; }
+```
