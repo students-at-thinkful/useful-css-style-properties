@@ -2,7 +2,7 @@
 
 
 
-###### centering divs
+##### centering divs
 ```
 .class { width: 600px; margin: 0 auto; }
 ```
