@@ -89,7 +89,7 @@ a:hover { text-decoration: underline; }
 nav a { display: inline-block; margin-right: 25px; }
 ```
 
-##### form input inside a table
+##### form lable and input inside a table row
 ```
 tr { height: 32px; }
 td.label { font-size: 14px; text-align: right; padding-right: 10px; }
