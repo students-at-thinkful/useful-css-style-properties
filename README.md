@@ -1,7 +1,6 @@
 # useful-css-style-properties
 
 
-
 ##### centering divs
 ```
 .class { width: 600px; margin: 0 auto; }
@@ -67,4 +66,13 @@
 ```
 .class { position: relative; }
 .class { position: absolute; bottom: 50px; left: 0; right: 0; }
+```
+##### remove white space border around the body
+```
+body { padding: 0; margin: 0; }
+```
+
+##### remove default padding and magrin from ul
+```
+ul { padding: 0; margin: 0; }
 ```
